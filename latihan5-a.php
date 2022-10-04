@@ -22,7 +22,7 @@ class magister extends mahasiswa
 { 
  public function getTugasAkhir() 
  { 
- return "G.211.21.0088"; 
+ return "G.211.21.0049"; 
  } 
  public function getProgram($postfix) 
  { 
@@ -32,3 +32,4 @@ class magister extends mahasiswa
  // Karena pada class anak yang mewarisi super class harus menuliskan semua method abstrak dari super classnya.
 }
 ?>
+ 
