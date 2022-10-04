@@ -4,12 +4,12 @@
   <tr>
     <td>Nama</td>
     <td>:</td>
-    <td>EMERALD ADE PANGGAYUH</td>
+    <td>LUTFI AINUL HAKIM</td>
   </tr>
   <tr>
     <td>NIM</td>
     <td>:</td>
-    <td>G.211.21.0021</td>
+    <td>G.211.21.0049</td>
   </tr>
 </table>
 
